@@ -276,12 +276,3 @@ for letra in letras:
     if letra == "a":
         count_a += 1
 print("Número de 'a':", count_a)
-
-# -----------------------------
-# 14. Consejos para entrevistas
-# -----------------------------
-# 1. Explica lo que hace cada línea
-# 2. Practica mini-scripts de 3-5 líneas
-# 3. Conoce: variables, tipos, condicionales, bucles, listas, diccionarios, strings, funciones, errores, módulos
-# 4. Lee un código y predice la salida antes de ejecutarlo
-# 5. Modifica ejemplos y observa resultados
