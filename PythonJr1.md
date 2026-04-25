@@ -1,5 +1,5 @@
 # ===============================
-# Python Junior — Chuleta Completa
+# Python Junior — Chuleta
 # ===============================
 
 # 1. Imprimir en pantalla
